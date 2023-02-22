@@ -440,5 +440,27 @@
 
 
         
+    ],
+    "cart": [
+        {
+            "oldprice": 1199,
+            "price": 949,
+            "Brand": "Bewakoof",
+            "image": "https://images.bewakoof.com/t640/cream-men-s-half-sleeves-shirt-348535-1655834980-1.jpg",
+            "category": "shirt",
+            "name": "Men's Cream Shirt",
+            "id": 1
+            }
+    ],
+    "wishlist": [
+        {
+            "oldprice": 499,
+            "name": "Anime Prophecy Designer Hard Cover for Xiaomi Redmi 9 Power",
+            "price": 299,
+            "Brand": "Xiaomi",
+            "image": "https://images.bewakoof.com/t320/anime-prophecy-designer-hard-cover-for-xiaomi-redmi-9-power-494583-1651158178-1.jpeg",
+            "category": "mobile cover",
+            "id": 1
+        } 
     ]
   }
